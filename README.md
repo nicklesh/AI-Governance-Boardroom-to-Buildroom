@@ -1,4 +1,4 @@
-# Boardroom to Buildroom
+# AI Governance - Boardroom to Buildroom
 
 **A role-based exploration of operational AI governance, accountability, observability, and evidence.**
 
